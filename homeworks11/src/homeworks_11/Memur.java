@@ -26,7 +26,7 @@ public class Memur extends Muhasebe{
 		memur2.adres="Eskisehir";
 		memur2.telefon="123456";
 		memur2.saatlikUcret=40;
-		memur2.statu="supervizor";
+		memur2.statu="engineer";
 		memur2.maas=memur2.maasHesapla(memur2.saatlikUcret);
 		
 		
@@ -37,7 +37,7 @@ public class Memur extends Muhasebe{
 		memur3.adres="Eskisehir";
 		memur3.telefon="123456";
 		memur3.saatlikUcret=20;
-		memur3.statu="supervizor";
+		memur3.statu="engineer yardimcisi";
 		memur3.maas=memur1.maasHesapla(memur3.saatlikUcret);
 		
 		

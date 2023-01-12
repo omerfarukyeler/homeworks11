@@ -37,7 +37,7 @@ public class Iscı extends Muhasebe  {
 		isci3.adres="Hollanda";
 		isci3.telefon="065443";
 		isci3.saatlikUcret=420;
-		isci3.statu="ajan yardimcisi";
+		isci3.statu="engineer yardimcisi";
 		isci3.maas=isci3.maasHesapla(isci3.saatlikUcret);
 		
 		
